@@ -1,8 +1,8 @@
-### Olá, Eu sou a Stephany Machado 👋
+### Olá, Eu sou Stephany Machado 👋
 
 
-- 🔭 Trabalho atualmente como desenvolvedora de softwares
-- 🌱 Estudando Java
+- 🔭 Cursando Análise e desenvolvimento de sistemas
+- 🌱 Estudando Banco de dados e Java
 - 😄 Pronouns: Ela/Dela
 
 ##
