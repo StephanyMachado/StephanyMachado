@@ -1,7 +1,7 @@
 ### Olá, Eu sou Stephany Machado 👋
 
 
-- 🔭 Cursando Análise e desenvolvimento de sistemas
+- 🔭 Cursando Análise e Desenvolvimento de sistemas
 - 🌱 Estudando Banco de dados e Java
 - 😄 Pronouns: Ela/Dela
 
